@@ -26,9 +26,9 @@ To get started with this project, follow these steps:
 
 Our trained model has been able to generate captions that are both accurate and relevant to the images. Here are a few sample predictions:
 
-1. ![Image 1](pred1.PNG)
+1. ![Image 1](imgs/pred1.PNG)
 
-2. ![Image 2](pred2.PNG)
+2. ![Image 2](imgs/pred2.PNG)
 
 
 ## Further Improvements

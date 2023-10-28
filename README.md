@@ -1,6 +1,6 @@
 # Image Captioning Project
 
-![Image Captioning Model](model_image.png)
+![Image Captioning Model](imgs/modelimg.png)
 
 ## Overview
 
@@ -10,7 +10,7 @@ This project is aimed at generating descriptive captions for images using deep l
 
 We have employed a convolutional neural network (CNN) for image feature extraction and a recurrent neural network (RNN) for generating captions. The model architecture can be summarized as follows:
 
-![Model Architecture](model_architecture.png)
+![Model Architecture](imgs/finalmodel.png)
 
 ## Getting Started
 
@@ -26,14 +26,10 @@ To get started with this project, follow these steps:
 
 Our trained model has been able to generate captions that are both accurate and relevant to the images. Here are a few sample predictions:
 
-1. ![Image 1](prediction_1.png)
-   - Caption: "A person riding a bike on a city street."
+1. ![Image 1](pred1.png)
 
-2. ![Image 2](prediction_2.png)
-   - Caption: "A group of people playing soccer on a field."
+2. ![Image 2](pred2.png)
 
-3. ![Image 3](prediction_3.png)
-   - Caption: "A kitchen with a sink, stove, and refrigerator."
 
 ## Further Improvements
 
@@ -47,14 +43,8 @@ While our image captioning model performs well, there's always room for improvem
 
 ## Contributors
 
-- [Your Name](Your GitHub Profile Link)
+- Shivesh Kodali
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- This project was inspired by the [XYZ Image Captioning Dataset](link-to-dataset), which we used for training and evaluation.
-
-Feel free to reach out for questions, suggestions, or collaboration opportunities.
